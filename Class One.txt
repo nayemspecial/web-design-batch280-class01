@@ -1,0 +1,8 @@
+Web Design
+Web pages
+WebSite
+
+
+Editor  = Notpad(d), Notepad++, Visual Studio Code, Brackets, Atom, PHP strom, sublime text 3 => input
+Browser = Microsoft Edge(d), Mozilla, Google Chrome, Safari, Brave, UC Browser, Opera => Output
+ 
